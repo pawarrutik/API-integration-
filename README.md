@@ -48,6 +48,10 @@ This project is a practical demonstration of: DOM interaction using JavaScript R
 
 Use Case: This Weather App is an excellent tool for beginners and intermediate developers to understand how real-time data-driven applications work. It can be further extended by adding features like 7-day forecasts, map integration, temperature unit conversion, or even saving favourite cities.
 
+*OUTPUT*:
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bf1099bb-cc34-4125-8f05-fa84549bf7b5" />
+
 
 
 
